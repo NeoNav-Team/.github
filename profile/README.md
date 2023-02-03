@@ -10,11 +10,11 @@ There are several applications in play with the NeoNav service.
 Our APIs talk to a couchDB that we host on-site. 
 - https://github.com/mjukis/neonav-backend
 
-###  NeoNav Client (https://neonav.net)
+###  NeoNav Client 2021 (https://neonav.net)
 The primary interface most users visit the ecosystem with. This is a site that mimic a mobile phone and includes a chat and payment apps.
 - https://github.com/NeoNav-Team/neonav-client
 
-###  NeoNav Web Client - Depreciated (https://local.neonav.net)
+###  NeoNav Web Client (https://local.neonav.net)
 This his one is a refactor of the previous client to replace it as the primary interface in 2023.
 - https://github.com/NeoNav-Team/neonav-client-web
 
