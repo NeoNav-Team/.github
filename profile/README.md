@@ -24,14 +24,14 @@ This is the first iteration of a shared login portal, as well as a developer con
 
 ## Teams
 
-### Street Team
+### Street Team 🏄
 Promoters and helpers of NeoNav at the event
 
-### NeoSites Lorecraft
+### NeoSites Lorecraft 🧙‍♂️
 Those who wish to tell stories via HTML
 
-### API Development
+### API Development 👽
 Coders who update and maintain NeoNav APIs
 
-### Interface Development
+### Interface Development 🎨
 Folks Focused on apps to communicate to NeoNav
